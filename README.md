@@ -2,7 +2,7 @@ Histogram Generator
 A Python script that generates a histogram to visualize the distribution of a dataset.
 
 About
-Data visualization is a core part of data analysis. This project demonstrates how to create clean, readable histograms in Python using matplotlib — one of the most fundamental visualization skills for any data analyst.
+Data visualization is a core part of data analysis. This project demonstrates how to create clean, readable histograms in Python using matplotlib one of the most fundamental visualization skills for any data analyst.
 
 Features
 
